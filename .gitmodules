@@ -1,0 +1,9 @@
+[submodule "logesh-service-kotlin-client"]
+	path = logesh-service-kotlin-client
+	url = https://github.com/logeshdinahypto/logesh-service-kotlin-client.git
+[submodule "logesh-service-server"]
+	path = logesh-service-server
+	url = https://github.com/logeshdinahypto/logesh-service-server.git
+[submodule "logesh-infrastructure"]
+	path = logesh-infrastructure
+	url = https://github.com/logeshdinahypto/logesh-infrastructure.git
